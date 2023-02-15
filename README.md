@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Java , Spring Boot, HTML , CSS , MySQL, Hibernate**
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **andrei.ion.dumitrescu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
