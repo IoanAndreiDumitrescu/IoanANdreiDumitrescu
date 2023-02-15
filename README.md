@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrei Dumitrescu</h1>
-<h3 align="center">A passionate backend developer from Romania</h3>
+<h3 align="center">A passionate backend developer from Romania
+After many years of working hands-on in offline businesses, the pandemic allowed me more time to dig deeper into a passion I had from highschool - software development. I recently graduated Software Development Academy with a specilization in Java. I am now looking for my first entry-level job as Jr. Backend Developer to extend my knowledge and technical skills. I am a fast learner and can quickly integrate into a team so I can provide value to the company and their projects.</h3>
 
 - 🔭 I’m currently working on my personal project [PlantShop](https://github.com/IoanAndreiDumitrescu/PlantShopApplication)
 
