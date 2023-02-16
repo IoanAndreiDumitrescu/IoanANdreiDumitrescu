@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrei Dumitrescu</h1>
 <h3 align="center">A passionate jr. Java backend developer from Romania<h3/>
-<h3>After many years of working hands-on in offline companies, the pandemic allowed me more time to dig deeper into a passion I had from highschool - software development. I recently graduated Software Development Academy with a specilization in Java. I am now looking for my first entry-level job as Jr. Backend Developer to extend my knowledge and technical skills. I am a fast learner and can quickly integrate into a team so I can provide value to the company and their projects.</h3>
+<h3>After many years in offline companies, the pandemic allowed me to pursue a passion I had from high-school - software development. 
+I graduated a 12 month Java specialization program at Software Development Academy; since, I have been constantly learning using Udemy and online courses, applying and testing in my GitHub projects.
+I am now looking for my first entry-level position as Jr. Backend Developer to put my knowledge into real practice. I am a fast learner and can quickly integrate into a team and start providing value to the company and projects. </h3>
 
 - 🔭 I’m currently working on my personal project [PlantShop](https://github.com/IoanAndreiDumitrescu/PlantShopApplication)
 
